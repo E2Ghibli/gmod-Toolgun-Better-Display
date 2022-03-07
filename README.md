@@ -1,12 +1,12 @@
-# gmod-Toolgun-Better-Display
+# gmod Toolgun Better Display
 This is a custom better display for the toolgun
 
-Features:
+## Features:
   Supports the local game language (automatic language)
   Can show you information from an entity if you have a tool inside that is not in the support list
 
 
-Support list:
+## Support list:
   elastic
   hydraulic
   motor
