@@ -1,5 +1,5 @@
-# gmod Toolgun Better Display
-This is a custom better display for the toolgun
+<h1 align="center"><gmod-Toolgun-Better-Display></h1>
+<p align="center"><This is a custom better display for the toolgun></p>
 
 ## Features:
   Supports the local game language (automatic language)
@@ -7,23 +7,23 @@ This is a custom better display for the toolgun
 
 
 ## Support list:
-  elastic
-  hydraulic
-  motor
-  muscle
-  rope
-  winch
-  thruster
-  balloon
-  dynamite
-  hoverball
-  button
-  lamp
-  light
-  emitter
-  colour
-  trails
+- elastic
+- hydraulic
+- motor
+- muscle
+- rope
+- winch
+- thruster
+- balloon
+- dynamite
+- hoverball
+- button
+- lamp
+- light
+- emitter
+- colour
+- trails
 
 
-Known Bugs:
-  Text does not always fit in the display
+## Known Bugs:
+- Text does not always fit in the display
