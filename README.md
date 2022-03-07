@@ -1,5 +1,5 @@
-<h1 align="center"><gmod-Toolgun-Better-Display></h1>
-<p align="center"><This is a custom better display for the toolgun></p>
+# gmod-Toolgun-Better-Display
+This is a custom better display for the toolgun
 
 ## Features:
   Supports the local game language (automatic language)
@@ -27,3 +27,6 @@
 
 ## Known Bugs:
 - Text does not always fit in the display
+
+## Steam Workshop:
+- [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2176582512 "gmod-Toolgun-Better-Display")
